@@ -739,10 +739,12 @@ h4 {
 .quote {
     font-style: italic;
     font-size: 20px;
+    color: #575757;
 }
 
 .author {
     font-size: 20px;
+    color: #575757;
 }
 
 .white {
